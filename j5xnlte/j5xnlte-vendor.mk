@@ -19,8 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5xnlte/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/j5xnlte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/j5xnlte/proprietary/bin/libfloatingfeature.so:system/lib/libfloatingfeature.so \
-    vendor/samsung/j5xnlte/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/samsung/j5xnlte/proprietary/bin/rild:system/bin/rild 
+    vendor/samsung/j5xnlte/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/j5xnlte/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/j5xnlte/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/samsung/j5xnlte/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
