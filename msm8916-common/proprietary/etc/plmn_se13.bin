@@ -138,8 +138,6 @@ T-Mobile A"TMA
 23403Airtel-Vodafone"ATL-VOD
 $
 23407Cable&Wireless UK"C&W UK
-
-23408BT OnePhone"BTOP
 
 23410O2 - UK"O2 - UK
 
@@ -354,8 +352,8 @@ BEELINE GE"BEELINE
 Beeline AM"Beeline
 
 28305MTS ARM"MTS Arm
-
-28310Ucom AM"Ucom
+
+28310	Orange AM"Orange
 
 28401Mtel"Mtel
 
@@ -592,10 +590,10 @@ NetGenuity"NetGenui
 330110PR Claro"Claro
 "
 330120Open Mob PRI"Open Mob
+
+33403Movistar"TEMM
 
 334020TELCEL"TELCEL
-
-334030Movistar"TEMM
 
 33450AT&T"AT&T
 
@@ -610,8 +608,8 @@ NetGenuity"NetGenui
 338180LIME"LIME
 
 34001F-Orange"Orange
-
-34002SFR"SFR
+
+34002Only"Only
 
 34020Digicel"DigicelF
 
@@ -1474,8 +1472,8 @@ Banglalink"BL
 51505PH Sun Cellular"SUN
 
 52000TH 3G+"TH 3G+
-
-52001AIS"AIS
+
+52001TH GSM"TH GSM
 
 52003AIS"AIS
 
@@ -2054,4 +2052,4 @@ AeroMobile"AeroMob
 
 90145AISatSea"AISatSea
 
-90150EchoStar Mobile"EML$Published TS25 Database 27 June 2016
+90150EchoStar Mobile"EML$Published TS25 Database 13 June 2016
