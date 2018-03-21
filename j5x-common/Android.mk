@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter j5xnlte j5xnltexx,$(TARGET_DEVICE)),)
+ifneq ($(filter j5xnlte,$(TARGET_DEVICE)),)
 
 endif
