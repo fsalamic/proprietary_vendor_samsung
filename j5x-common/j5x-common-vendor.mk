@@ -70,6 +70,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_s5k5e3yx_wide_vt.so:system/vendor/lib/libchromatix_s5k5e3yx_wide_vt.so \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_s5k5e3yx_wide_vt_hd.so:system/vendor/lib/libchromatix_s5k5e3yx_wide_vt_hd.so \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_s5k5e3yx_wide_zslshot.so:system/vendor/lib/libchromatix_s5k5e3yx_wide_zslshot.so \
+    vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_sr552_common.so:system/vendor/lib/libchromatix_sr552_common.so \
+    vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_sr552_default_video.so:system/vendor/lib/libchromatix_sr552_default_video.so \
+    vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_sr552_liveshot.so:system/vendor/lib/libchromatix_sr552_liveshot.so \
+    vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_sr552_preview.so:system/vendor/lib/libchromatix_sr552_preview.so \
+    vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_sr552_snapshot.so:system/vendor/lib/libchromatix_sr552_snapshot.so \
+    vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_sr552_vt.so:system/vendor/lib/libchromatix_sr552_vt.so \
+    vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_sr552_vt_15fps.so:system/vendor/lib/libchromatix_sr552_vt_15fps.so \
+    vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_sr552_vt_30fps.so:system/vendor/lib/libchromatix_sr552_vt_30fps.so \
+    vendor/samsung/j5x-common/proprietary/vendor/lib/libchromatix_sr552_zslshot.so:system/vendor/lib/libchromatix_sr552_zslshot.so \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libmmcamera2_cpp_module.so:system/vendor/lib/libmmcamera2_cpp_module.so \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libmmcamera2_frame_algorithm.so:system/vendor/lib/libmmcamera2_frame_algorithm.so \
