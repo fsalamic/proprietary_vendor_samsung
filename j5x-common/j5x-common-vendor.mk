@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5x-common/proprietary/etc/Hdmi_cal.acdb:system/etc/Hdmi_cal.acdb \
     vendor/samsung/j5x-common/proprietary/etc/Headset_cal.acdb:system/etc/Headset_cal.acdb \
     vendor/samsung/j5x-common/proprietary/etc/Speaker_cal.acdb:system/etc/Speaker_cal.acdb \
-    vendor/samsung/j5x-common/proprietary/etc/T13QL_s5k3l2xx_module_info.xml:system/etc/T13QL_s5k3l2xx_module_info.xml \
     vendor/samsung/j5x-common/proprietary/etc/D05QL_s5k5e3yx_module_info.xml:system/etc/D05QL_s5k5e3yx_module_info.xml \
     vendor/samsung/j5x-common/proprietary/etc/J05QF_sr552_module_info.xml:system/etc/J05QF_sr552_module_info.xml \
     vendor/samsung/j5x-common/proprietary/etc/V13QL_s5k3l2xx_module_info.xml:system/etc/V13QL_s5k3l2xx_module_info.xml \
