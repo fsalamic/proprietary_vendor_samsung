@@ -87,7 +87,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libmmcamera_image_stab.so:system/vendor/lib/libmmcamera_image_stab.so \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
-    vendor/samsung/j5x-common/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libmmcamera_m24128s_eeprom.so:system/vendor/lib/libmmcamera_m24128s_eeprom.so \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libmmcamera_s5k3l2xx.so:system/vendor/lib/libmmcamera_s5k3l2xx.so \
     vendor/samsung/j5x-common/proprietary/vendor/lib/libmmcamera_s5k5e3yx.so:system/vendor/lib/libmmcamera_s5k5e3yx.so \
